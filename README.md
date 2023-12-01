@@ -1,1 +1,1 @@
-# Converter
+Binary to Decimal Converter
